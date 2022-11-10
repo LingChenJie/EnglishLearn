@@ -53,7 +53,7 @@
 ### angry
 
 > 1. He was very angry yesterday.
->    1. Was He was very angry yesterday?
+>    1. Was he was very angry yesterday?
 >    2. When was he very angry?
 >    3. Why was he very angry yesterday?
 > 2. Look at her angrily
