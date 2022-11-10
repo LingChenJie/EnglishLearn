@@ -102,9 +102,65 @@
 >    2. A cute woman is shouting happily.
 >    3. An ugly woman is shouting angrily in the car.
 >    4. A cute woman is shouting happily on the beach.
->    5. 
+>    5. An ugly woman is shouting angrily in her car at midnight.
+>    6. A cute woman is shouting happily on the beach in the morning.
+> 2. I enjoyed the film yesterday.
+> 3. I listened to the news carefully.
+> 4. The man played the paino well.
+> 5. The children played games quietly in their room yesterday.
+> 6. He opened the door quietly.
+> 7. He left immediately.
+> 8. He planted a tree in the corner of the garden.
+> 9. He read the letter quickly in his office before lunch.
+> 10. I borrowed a book from the library this morning.
+> 11. The cook spoilt the soup.
+> 12. We stay at home on Sundays.
+> 13. There are a lot of people at the bus stop.
+> 14. The little boy ate an apple greedily in the kitchen this morning.
+> 15. She draws beautifully.
+> 16. I like music very much.
+> 17. They built a new school in our village last year.
+> 18. The match ended at four o'clock.
+> 19. She received a letter from her brother last week.
 >
-> 
+
+![image-20221110225730011](assets/image-20221110225730011.png)
+
+### Pattern drill
+
+![image-20221110234956861](assets/image-20221110234956861.png)
+
+> 1. How did she behave at the theatre?
+>    1. She behaved very rudely at the theatre.
+> 2. How did she drive through the park?
+>    1. She drived very quickly throught the park.
+> 3. How did she sleep on the train?
+>    1. She sleeped very soundly on the train.
+> 4. How did she listen to his story?
+>    1. She listend very patinetly to his story.
+
+![image-20221110235649439](assets/image-20221110235649439.png)
+
+> 1. I can hear the actors now. Can you?
+>    1. Of course I can. I can hear it perfectly well.
+> 2. I can see the theatre. Can you?
+>    1. Of course I can. I can see it prefectly well.
+> 3. I can hear the rain. Can you?
+>    1. Of course I can. I can hear it prefectly well.
+> 4. I can hear some music. Can you?
+>    1. Of couser I can. I can hear it perfectly well.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
