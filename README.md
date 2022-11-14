@@ -367,6 +367,173 @@
 
 
 
+## 
+
+### postcard
+
+> 1. buy sb sth. = buy sth. for sb.
+>    1. I bought a postcard for him this morning.
+>    2. Did you buy a postcard for him this morning?
+>    3. Where did you buy a postcard for him this morning?
+> 2. Where can I buy a postcard?
+
+### send
+
+> 1. send me a postcard
+> 2. send sb. sth = send sth. to sb
+>    1. My aunt has already sent me a postcard.
+
+###  spoil
+
+> 1. The cook spoilt the soup.
+>    1. Did the cook spoilt the soup?
+>    2. How did the cook spoil the soup?
+> 2. Postcards always splil my holidays.
+>    1. Postcards spoilt my last sunmmer holiday.
+
+### museum
+
+> 1. I visited museums.
+>    1. Did you visit the museum in 2018?
+>    2. When did you visit that museum?
+
+### public
+
+> 1. Public library; public garden
+> 2. I go to that public garden every Sundays.
+>    1. Do you go to that public garden every Sundays?
+
+### friendly
+
+> 1. He is very friendly.
+>    1. Kiwi people are very friendly.
+> 2. What a friendly guy.
+
+### waiter
+
+> 1. a friendly waiter + v. ?
+
+### lend
+
+> 1. lend sb. sth. = lend sth. to sb.
+>    1. Could you lend me 20$?
+> 2. borrow sth. from sb. / borrow sth.
+>    1. I borrowed this book from the public library last week.
+> 3. lend you some money
+
+### decision
+
+> 1. make a decision
+>    1. I made a big decision last night.
+>    2. Did you make a decision?
+>    3. When did you make a decision?
+
+### whole
+
+> 1. I like eat whole grain bread.
+>    1. I want to buy some whole grain bread.
+> 2. whole day / week
+>    1. I spent the whole day in my room.
+>    2. Did you spend the whole day in your room?
+
+### single
+
+> 1. I did not write a single card.
+>    1. Why didn't you write a single card.
+>    2. I am not going to write a single card.
+> 2. She's single
+>    1. mind your own business
+
+### Grammer
+
+> am is are  ->  was were
+>
+> do does  ->  did
+>
+> 1. He was very angry yesterday.
+> 2. He wasn't very angry yesterday.
+> 3. Was he very angry yesterday?
+> 4. I had breakfast this morning.
+> 5. I didn't have breakfast this morning.
+> 6. Did you have breakfast this morning?
+> 7. I loved you
+
+<img src="assets/image-20221114222008053.png" alt="image-20221114222008053" style="zoom:33%;" />
+
+
+
+<img src="assets/image-20221114222103654.png" alt="image-20221114222103654" style="zoom:33%;" />
+
+> 1. What did you give John yesterday?
+>    1. I gave John a book.
+> 2. What did you buy Jean yesterday?
+>    1. I brought Jean a rose.
+> 3. What did you teach Lucy yesterday?
+>    1. I taught Lucy French.
+
+<img src="assets/image-20221114222208979.png" alt="image-20221114222208979" style="zoom:33%;" />
+
+> 1. Who did you show the key to? Tom or his mother?
+>    1. I shown it to her, of course.
+
+### Story
+
+> Postcards always spoil my holidays.
+>
+> Last summer, I went to Italy.
+>
+> I visited museums and sat in public gardens.
+>
+> A friendly waiter taught me a few words of Italian.
+>
+> 'Then he lent me a book.
+>
+> I read a few lines, 
+>
+> but I did not understand a word.
+>
+> Every day I thought about postcards.
+>
+> My holidays passed quickly,
+>
+> but I dit not send cards to my friends.
+>
+> On the last day I made a big decision.
+>
+> I got up early and bought thirty-seven cards.
+>
+> I spent the whole day in my room.
+>
+> but I dit not write a single card!
+
+> 1. teach sb. sth.
+>    1. Leo teachers me English everyday.
+>    2. Does Leo teach you English everyday?
+>    3. Why does Leo teach you English everyday?
+> 2. teach me a lesson
+> 3. lend sb. sth
+>    1. He lent me 20$ last night.
+>    2. Did he lend you 20$ last night?
+> 4. think about sth./sb.
+>    1. I think about you every night and day.
+> 5. send sth. to sb.
+>    1. I did not send cards to my friends.
+>    2. Do you send cards to your friends?
+> 6. on the last day
+>    1. On the last day, I couldn't bear it.
+> 7. make a decision
+>    1. I have to make this dicision everyday.
+>    2. Do you have to make this decision everyday?
+>    3. How often / why
+> 8. spend st. sw.
+>    1. I spent 3 years in New Zealand.
+
+
+
+
+
+
+
 
 
 
