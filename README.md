@@ -124,11 +124,11 @@
 > 19. She received a letter from her brother last week.
 >
 
-![image-20221110225730011](assets/image-20221110225730011.png)
+<img src="assets/image-20221110225730011.png" alt="image-20221110225730011" style="zoom:50%;" />
 
 ### Pattern drill
 
-![image-20221110234956861](assets/image-20221110234956861.png)
+<img src="assets/image-20221110234956861.png" alt="image-20221110234956861" style="zoom: 33%;" />
 
 > 1. How did she behave at the theatre?
 >    1. She behaved very rudely at the theatre.
@@ -139,7 +139,7 @@
 > 4. How did she listen to his story?
 >    1. She listend very patinetly to his story.
 
-![image-20221110235649439](assets/image-20221110235649439.png)
+<img src="assets/image-20221110235649439.png" alt="image-20221110235649439" style="zoom: 33%;" />
 
 > 1. I can hear the actors now. Can you?
 >    1. Of course I can. I can hear it perfectly well.
@@ -150,7 +150,220 @@
 > 4. I can hear some music. Can you?
 >    1. Of couser I can. I can hear it perfectly well.
 
+<img src="assets/image-20221112101545109.png" alt="image-20221112101545109" style="zoom: 33%;" />
 
+> 1. I heard a voice at the door just now.
+> 2. I saw a cry outside last night.
+> 3. I saw a fly in my soup at lunch.
+> 4. I saw a camel at the zoo last week.
+
+<img src="assets/image-20221112102258659.png" alt="image-20221112102258659" style="zoom: 33%;" />
+
+> 1. Didn't you read the letter?
+>    1. I couldn't. The writing was too small.
+> 2. Didn't you see her face?
+>    1. I couldn't. The light was too bad.
+> 3. Didn't you swim in the lake?
+>    1. I couldn't. The water was too deep.
+> 4. Didn't you finish your launch?
+>    1. I couldn't. The food was too hot.
+
+> Last week I went to the theatre.
+>
+> I had a very good seat.
+>
+> The play was very interseting.
+>
+> I did not enjoy it.
+>
+> A young man and a young woman were siting behind me.
+>
+> They were talking loudly.
+>
+> I got very angry.
+>
+> I couldn't not hear the actors.
+>
+> I turned round.
+>
+> I looked at the man and the woman angrily.
+>
+> They did not pay any attention.
+>
+> In the end, I could not bear it.
+>
+> I turned round again.
+>
+> 'I can't hear a word!' I said angrily.
+>
+> 'It's none of  your business,' the young man said rudely.
+>
+> 'This is a private conversation!'
+
+> 1. go to the theatre
+>    1. I had to go to the theatre yesterday.
+>    2. Did you have to go to the theatre yesterday?
+>    3. Why did you have to go to the theatre yesterday?
+>    4. When did you have to go to the theatre?
+>    5. Where did you have to go to yesterday?
+>    6. Who have to go the theatre yesterday?
+> 2. have a good seat
+>    1. I had a very good seat.
+>       1. Did you have a good seat?
+> 3. get angry
+>    1. I got very angry.
+>    2. He got very angry yesterday.
+>    3. Did he get very angry yesterday?
+>    4. Why did he get very angry yesterday?
+>    5. When did he get very angry?
+> 4. trun round
+>    1. I truned round.
+>    2. He always turns round in the class.
+>    3. Does he always turns round in the class?
+>    4. Why does he always truns round in the class?
+>    5. How often does he truns round in the class?
+> 5. pay attention
+>    1. They did not pay any attention.
+>    2. Did they pay any attention?
+> 6. in the end
+>    1. In the end, My mum and I went to the theatre.
+>    2. Did your mum and you go to the theatre, in the end?
+>    3. Where did your mun and you go in the end?
+> 7. couln't bear it
+>    1. I can't bear it.
+>    2. Can you bear it?
+>    3. How can you bear it?
+> 8. It's none of your business
+
+### Topics for discussion
+
+> 1. When did you last go to the theatre/cinama? Tell me about the play/film.
+> 2. Do you get angry easily? What sort of thing makes you angry?
+> 3. Would you like to be an actor? Why/Why not?
+
+
+
+## 
+
+### until
+
+> 1. I sometimes stay in bed until lunchtime.
+>    1. I sometimes eat my dinner until 9.
+>    2. I sometimes go to bed until 2 a.m.
+>    3. Do you sometimes go to bed until 2 a.m?
+>    4. How often do you go to bed until 2 a.m?
+>    5. I couldn't swim until 21.
+
+### outside
+
+> 1. Look, there is a dog outside.
+> 2. It was dark, outside.
+>    1. Was it dark outside?
+>    2. Why was it dark outside?
+> 3. get inside & get outside
+
+### ring
+
+> 1. Just then, the telephone rang.
+>    1. Did the telephone ring?
+>    2. When did the telephone ring?
+>    3. The telephone is ringing.
+>    4. The phone rings at 8 every night.
+
+### aunt uncle
+
+> 1. meet
+>    1. I met her aunt yesterday.
+>    2. Did you meet her aunt yesterday?
+>    3. Where did you meet her aunt yesterday?
+
+### repeat
+
+> 1. repeat after me
+> 2. repeat your question.
+>    1. Can you repeat your question?
+>    2. Come again? & Pardon? & What?
+
+### Grammer
+
+> 1. be + doing
+>    1. We are having a conversation.
+>    2. She is not watching play.
+>    3. Are they talking loudly?
+>    4. I am meeting my friends tonight.
+>    5. We're having a party next weekend.
+> 2. do/does
+>    1. He goes to that theatre every weekend.
+>    2. They go to that theatre evety weekend.
+>    3. He doesn't go to that theatre every weekend.
+>    4. They don't go to that theatre evety weekend.
+>    5. Does he go to that theatre every weekend.
+>    6. Do they go to that theatre every weekend.
+> 3. What
+>    1. It is a terriable day.
+>    2. What a terriable day (it is)!
+>    3. This is a beautiful picture.
+>    4. What a beautiful priture.
+>    5. This is a wonderful garden.
+>    6. What  a wonderful garden.
+>    7. What a wonderful world.
+>    8. What a wonderful phrase!
+> 4. always/usually/sometimes
+
+<img src="assets/image-20221113222413890.png" alt="image-20221113222413890" style="zoom:33%;" />
+
+<img src="assets/image-20221113222529578.png" alt="image-20221113222529578" style="zoom:33%;" />
+
+<img src="assets/image-20221113222734937.png" alt="image-20221113222734937" style="zoom:33%;" />
+
+<img src="assets/image-20221113223007215.png" alt="image-20221113223007215" style="zoom:33%;" />
+
+> It was Sunday.
+>
+> I never get up early on Sundays.
+>
+> I sometimes stay in bed until lunchtime.
+>
+> Last Sunday I got up very late.
+>
+> I looked out of the window.
+>
+> It was dark outside.
+>
+> 'What a day!' I thought.
+>
+> 'It's raining again.'
+>
+> Just then, the telephone rang.
+>
+> It was my aunt Lucy.
+>
+> 'I've just arrived by train,' she said.
+>
+> 'I'm coming to see you.'
+>
+> 'But I'm still having breakfast,' I said.
+>
+> 'What are you doing?' She asked.
+>
+> 'I'm having breakfast,' I repeated.
+>
+> 'Dear me,' she said.
+>
+> 'Do you always get up so late? It's one o'clock.'
+
+> 1. get up early/late
+>    1. He gets up early everyday.
+>    2. Does he get up early everyday?
+> 2. just then
+>    1. Just then, the telephone rang.
+>    2. Just then, my mom came in.
+>    3. Just then, he turened round.
+> 3. have breakfast
+>    1. I usually have breakfast at 8.
+>    2. Do you usually have brrekfast at 8?
+
+<img src="assets/image-20221113230857124.png" alt="image-20221113230857124" style="zoom:33%;" />
 
 
 
